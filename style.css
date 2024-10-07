@@ -799,6 +799,11 @@ background-color: pink;
         margin: 7px;
         font-size: 14px;
     }
+        .content11 i{
+        position: relative;
+        top: 70px;
+        left: 100px;
+    }
     .skills_img ul {
         justify-content: center;
         gap: 20px;
