@@ -316,6 +316,10 @@ nav{
     gap: 10px;
     margin-top: 20px;
 }
+.linkedin{
+    padding-right: 100px;
+}
+
 .mail a{
     font-size: 16px;
     margin: 0;
